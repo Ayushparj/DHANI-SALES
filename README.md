@@ -90,15 +90,8 @@ It offers a clear and interactive view of the business data to support better sa
 
 ---
 
-## 📸 Preview
-*(You can attach your dashboard image or screenshot here)*  
-```markdown
-![Dhani Sales Dashboard Preview](./dashboard_preview.png)
-```
 
----
 
 ## 👨‍💻 Author
 **Ayush Kumar**  
-📧 [Your Email Here]  
-🔗 [LinkedIn / Portfolio link (optional)]
+📧 [ayushkumar0043@gmail.com]  
